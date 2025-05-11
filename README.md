@@ -37,7 +37,6 @@ Handig voor standaardberichten, of gewoon voor de lol!
    ```bash
    pip install pyautogui
    ```
-   *(Tip: Het is een goede gewoonte om een [virtual environment](https://docs.python.org/3/tutorial/venv.html) te gebruiken voor Python projecten om afhankelijkheden geïsoleerd te houden.)*
 
 5. Open het script `autotyper.py` in je editor (optioneel, als je de code wilt bekijken of aanpassen).
 
